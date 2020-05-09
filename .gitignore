@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# .DS_Store
+.DS_Store
+
+# Desktop.ini write whatever you want here
+desktop.ini
+
 # Distribution / packaging
 .Python
 build/
